@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from Hitesh
+          Learn React from Hitesh Nalamwar - changes in feature
         </a>
       </header>
     </div>
